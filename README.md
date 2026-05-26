@@ -12,7 +12,7 @@ O Flamengo fechou 2025 com receita operacional de R$ 1,5 bilhão consolidado —
 
 📋 **[Executive Summary em PDF](Executive_Summary_Flamengo.pdf)** — Filtro de leitura de 2-3 minutos com tese central, números-âncora, cenários compactos, riscos rankeados e implicações por público. Para quem precisa decidir se vai mergulhar no resto do material.
 
-📰 **[Versão resumida no Substack]([https://substack.com/profile/258523613-vinicius-borges/note/c-265687151])**
+📰 **[Versão resumida no Substack]([LINK SUBSTACK]((https://substack.com/profile/258523613-vinicius-borges/note/c-265687151))**
 
 📄 **[Análise completa em PDF](Flamengo_analise_completa.pdf)** — Documento de 22 páginas com diagnóstico 2022-2025, projeção 2026-2027 nos três cenários, definição numérica de competitividade financeira, leitura aprofundada dos dois caminhos (Caminho A associativo vs. Caminho B SAF estrutural para o estádio), e conclusão por público. Cinco modelos de financiamento do estádio próprio discutidos individualmente.
 
